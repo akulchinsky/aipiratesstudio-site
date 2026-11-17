@@ -1,0 +1,5 @@
+# app-ads.txt for AI pirates Studio (Snapshot Solitaire, com.aipirates.snapshotsolitaire)
+# Google AdMob
+google.com, pub-6613410627032725, DIRECT, f08c47fec0942fa0
+# Unity Ads
+unity.com, 113712060, DIRECT, 96cabb5fbdde37a7
