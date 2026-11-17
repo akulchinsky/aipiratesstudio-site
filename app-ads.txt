@@ -7,6 +7,9 @@ google.com, pub-6613410627032725, DIRECT, f08c47fec0942fa0
 # ironSource Ads / Unity LevelPlay (publisher 702107)
 ironsrc.com, 702107, DIRECT
 
+# Liftoff Monetize (Vungle)
+vungle.com, 6afca8b88a4ab1588b4ba67a, DIRECT, c107d686becd2d77
+
 # Unity Ads (authorized sellers from Unity Monetization, AI pirates Studio)
 video.unrulymedia.com, 657436911, RESELLER
 video.unrulymedia.com, 389957698, RESELLER
